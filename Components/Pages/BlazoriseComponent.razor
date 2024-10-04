@@ -1,0 +1,39 @@
+﻿@page "/tests/buttons"
+
+@* https://bootstrap5demo.blazorise.com/tests/buttons *@
+@* https://github.com/Megabit/Blazorise *@
+
+<Row>
+    <Column>
+        <Card Margin="Margin.Is4.OnY">
+            <CardHeader>
+                <CardTitle>Default Buttons</CardTitle>
+            </CardHeader>
+            <CardBody>
+                <CardText>Use the color enums like <code>Color.Primary</code></CardText>
+            </CardBody>
+            <CardBody>
+                <Button Color="Color.Primary" @onclick="OnClickButtonBlazorise">Primary</Button>
+                <Button Color="Color.Secondary">Secondary</Button>
+                <Button Color="Color.Success">Success</Button>
+                <Button>Default</Button>
+            </CardBody>
+        </Card>
+    </Column>
+</Row>
+
+<br />
+
+<br />
+
+<p>@message</p>
+
+@code {
+
+    public string message = "";
+
+    public void OnClickButtonBlazorise()
+    {
+        message = "Hello World!";
+    }
+}
