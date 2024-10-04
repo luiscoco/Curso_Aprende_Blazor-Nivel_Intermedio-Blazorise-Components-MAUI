@@ -2,7 +2,17 @@
 
 ## Running the Blaozr MAUI application in your Mobile Device
 
+![image](https://github.com/user-attachments/assets/f234b4f8-84fc-4806-8626-aa807aef7622)
 
+![image](https://github.com/user-attachments/assets/5488a65d-30f8-442a-bf9b-a4bbfc56e2e3)
+
+![image](https://github.com/user-attachments/assets/2043ee6e-18d1-47d5-9bcb-d524d1273e59)
+
+![image](https://github.com/user-attachments/assets/e13994b7-6553-490e-ae4b-545c3dd1016e)
+
+![image](https://github.com/user-attachments/assets/2b000193-3c41-401f-b3eb-d36efe61cb31)
+
+![image](https://github.com/user-attachments/assets/96b65c37-c095-4771-baa3-3218e40856ad)
 
 ## Running the Blazor MAUI application in Windows Desktop
 
