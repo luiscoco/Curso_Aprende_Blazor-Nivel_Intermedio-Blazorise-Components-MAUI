@@ -193,7 +193,23 @@ Then you have to check the **Implement** option
 
 ![image](https://github.com/user-attachments/assets/c7559339-ebc8-4d5f-a3bf-6a9e8a6da182)
 
-Then connect your Mobile to your laptop with an USB wire and click on the run button:
+Now you have to check your mobile is connected to your laptop running this command:
+
+```
+adb devices
+```
+
+![image](https://github.com/user-attachments/assets/c61fb3f1-0559-4068-af74-77a69b343a64)
+
+Then you have to select your Mobile in the **Android Local Devices** menu option 
+
+![image](https://github.com/user-attachments/assets/e9759283-fb5a-4d8b-b4bf-ecca94c5cf63)
+
+Then press the run button 
+
+![image](https://github.com/user-attachments/assets/f4d03226-af16-4a3f-b93b-2f70fc75065d)
+
+And see your MAUI application running in your Mobile and also in Visual Studio IDE
 
 ![image](https://github.com/user-attachments/assets/f234b4f8-84fc-4806-8626-aa807aef7622)
 
