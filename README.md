@@ -1,4 +1,47 @@
-# MAUIBlazorise
+# How to add Blazorise components in your MAUI Blazor Application
+
+For more information about **Blazorise** components visit this URL: 
+
+https://blazorise.com/docs/start
+
+## 1. Run Visual Studio 2022 Community Edition and create a MAUI Blazor Application
+
+We download Visual Studido 2022 Preview
+
+https://visualstudio.microsoft.com/vs/preview/
+
+![image](https://github.com/user-attachments/assets/08ba47c2-c95e-4f23-914e-05d174465deb)
+
+We install .NET 9 SDK 
+
+https://dotnet.microsoft.com/en-us/download/dotnet/9.0
+
+![image](https://github.com/user-attachments/assets/1f73e7c8-1288-41f0-9e2d-60177818bd54)
+
+We run Microsoft Visual Studio Community 2022 (64 bits) - Preview Versión 17.12.0 Preview 2.1
+
+![image](https://github.com/user-attachments/assets/d7a4f524-fdb1-4f16-8c0f-52314ff8303d)
+
+We create a new project
+
+![image](https://github.com/user-attachments/assets/9334a2bb-9ed5-4c40-a312-26973910975f)
+
+We search for MAUI projects templates and select .NET MAUI Blazor App
+
+![image](https://github.com/user-attachments/assets/8287f785-96b9-417b-b457-bf34560320e8)
+
+
+## 2. Create a new project MAUI Blazor 
+
+## 3. Add the Blazorise Nuget package
+
+## 4. 
+
+## 5. 
+
+
+## 6. 
+
 
 ## Running the Blaozr MAUI application in your Mobile Device
 
