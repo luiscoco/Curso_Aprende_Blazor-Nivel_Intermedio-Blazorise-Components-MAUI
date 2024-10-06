@@ -30,12 +30,23 @@ We search for MAUI projects templates and select .NET MAUI Blazor App
 
 ![image](https://github.com/user-attachments/assets/8287f785-96b9-417b-b457-bf34560320e8)
 
-
-## 2. Create a new project MAUI Blazor 
-
 ## 3. Add the Blazorise Nuget package
 
+Install a Bootstrap 5 provider for Blazorise:
+
+```
+Install-Package Blazorise.Bootstrap5
+```
+
+You also need to install the icon package:
+
+```
+Install-Package Blazorise.Icons.FontAwesome
+```
+
 ## 4. 
+
+
 
 ## 5. 
 
