@@ -30,7 +30,7 @@ We search for MAUI projects templates and select .NET MAUI Blazor App
 
 ![image](https://github.com/user-attachments/assets/8287f785-96b9-417b-b457-bf34560320e8)
 
-## 3. Add the Blazorise Nuget package
+## 2. Add the Blazorise Nuget package
 
 Install a Bootstrap 5 provider for Blazorise:
 
@@ -44,17 +44,17 @@ You also need to install the icon package:
 Install-Package Blazorise.Icons.FontAwesome
 ```
 
-## 4. 
+## 3. 
 
+
+
+## 4. 
 
 
 ## 5. 
 
 
-## 6. 
-
-
-## Running the Blaozr MAUI application in your Mobile Device
+## 6. Running the Blaozr MAUI application in your Mobile Device
 
 ![image](https://github.com/user-attachments/assets/f234b4f8-84fc-4806-8626-aa807aef7622)
 
@@ -68,7 +68,7 @@ Install-Package Blazorise.Icons.FontAwesome
 
 ![image](https://github.com/user-attachments/assets/96b65c37-c095-4771-baa3-3218e40856ad)
 
-## Running the Blazor MAUI application in Windows Desktop
+## 7. Running the Blazor MAUI application in Windows Desktop
 
 ![image](https://github.com/user-attachments/assets/2fd2d955-b8bf-4b51-bb7d-a77c1d343424)
 
