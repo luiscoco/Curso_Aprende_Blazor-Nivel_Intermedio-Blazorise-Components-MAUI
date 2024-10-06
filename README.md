@@ -185,6 +185,16 @@ namespace MAUIBlazorise
 
 ## 6. Running the Blaozr MAUI application in your Mobile Device
 
+Befor running your application in the Mobile you have to select the following menu option:
+
+![image](https://github.com/user-attachments/assets/76ac1d98-06fd-49d1-8f68-d144fa102803)
+
+Then you have to check the **Implement** option 
+
+![image](https://github.com/user-attachments/assets/c7559339-ebc8-4d5f-a3bf-6a9e8a6da182)
+
+Then connect your Mobile to your laptop with an USB wire and click on the run button:
+
 ![image](https://github.com/user-attachments/assets/f234b4f8-84fc-4806-8626-aa807aef7622)
 
 ![image](https://github.com/user-attachments/assets/5488a65d-30f8-442a-bf9b-a4bbfc56e2e3)
